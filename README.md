@@ -23,10 +23,7 @@ shttpd 为静态web 服务器，借鉴libevent的核心思想、采用EPOLL反�
 
 
 
-<video id="video" controls="" preload="none" >
-      <source id="mp4" src="shttpd_webserver.mp4" type="video/mp4">     
-      <p>Your user agent does not support the HTML5 Video element.</p>
-</video>
+![](images/shttpd.gif)
 
 
 
